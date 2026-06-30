@@ -1,30 +1,40 @@
-<!-- ========================================================= -->
-<!--            PREMIUM GITHUB PROFILE - PART 1                -->
-<!-- ========================================================= -->
+<!-- ===================== HERO SECTION ===================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=6,12,20,24,30&text=Bhavnesh%20Gaddi&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Computer%20Engineering%20Student%20•%20Full%20Stack%20Developer%20•%20AI%20%26%20IoT%20Enthusiast&descAlignY=60&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,12,20&text=Bhavnesh%20Gaddi&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20|%20Full%20Stack%20Developer&descAlignY=60&descSize=18"/>
 
 </div>
 
 <h1 align="center">
-
-Hi 👋 I'm Bhavnesh Gaddi
-
+Hi 👋, I'm <b>Bhavnesh Gaddi</b>
 </h1>
 
 <h3 align="center">
-
-🚀 Full Stack Developer • AI Explorer • Computer Engineering Student
-
+Computer Engineering Student • Full Stack Developer • AI & IoT Enthusiast
 </h3>
 
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1200&center=true&vCenter=true&width=850&lines=Building+Practical+Software.;Full+Stack+Web+Developer.;Passionate+about+AI+and+IoT.;Always+Learning+New+Technologies."/>
+
+</p>
+
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;React+%7C+Node.js+%7C+Express.js;Java+%7C+Python+%7C+JavaScript;Artificial+Intelligence;Internet+of+Things;Always+Learning+Something+New"/>
+<a href="https://github.com/Bhavneshgaddi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -32,62 +42,164 @@ Hi 👋 I'm Bhavnesh Gaddi
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/Bhavneshgaddi?logo=github&style=for-the-badge"/>
+![](https://komarev.com/ghpvc/?username=Bhavneshgaddi&style=flat-square&color=0e75b6)
 
-<img src="https://img.shields.io/github/stars/Bhavneshgaddi?style=for-the-badge"/>
+![](https://img.shields.io/github/followers/Bhavneshgaddi?style=flat-square)
 
-<img src="https://komarev.com/ghpvc/?username=Bhavneshgaddi&style=for-the-badge&color=blueviolet"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Love-red?style=for-the-badge"/>
+![](https://img.shields.io/github/stars/Bhavneshgaddi?style=flat-square)
 
 </div>
 
 ---
 
-# 💫 Welcome
+# 👨‍💻 About Me
 
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│   👨‍💻 Software Developer                     │
-│   🚀 Passionate Problem Solver               │
-│   💡 Technology Enthusiast                   │
-│   🌍 Building Real World Projects            │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
+I am a **Computer Engineering student** at **JSPM's Bhivarabai Sawant Institute of Technology & Research, Pune**, passionate about **Full Stack Development**, **Artificial Intelligence**, and the **Internet of Things**.
+
+I enjoy building practical software, exploring modern technologies, and continuously improving my skills through real-world projects and hands-on learning.
+
+Currently, I'm focused on developing scalable web applications using **React**, **Node.js**, **Express.js**, and **MySQL**, while expanding my knowledge in **Cloud Computing**, **Docker**, and **System Design**.
 
 ---
 
-# 👨‍🚀 Developer Card
+## 🎯 Current Focus
+
+- 🚀 Building Full Stack Applications
+- 🌱 Learning Cloud & DevOps
+- 🤖 Exploring Artificial Intelligence
+- 📡 Working with IoT Technologies
+- 💻 Strengthening DSA & Problem Solving
+
+---
+
+<div align="center">
+
+> **"Building solutions that make technology simple, useful, and impactful."**
+
+</div>
+
+---
+
+<!-- ================= END OF PART 1 ================= -->
+<!-- ================= TECH STACK ================= -->
+
+# 💻 Tech Stack
+
+<div align="center">
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+</p>
+
+---
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+<img src="https://skillicons.dev/icons?i=vite"/>
+
+</p>
+
+---
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+<img src="https://skillicons.dev/icons?i=firebase"/>
+
+</p>
+
+---
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+</p>
+
+---
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+<img src="https://skillicons.dev/icons?i=npm"/>
+
+</p>
+
+</div>
+
+---
+
+# 🚀 Currently Exploring
 
 <table>
 
 <tr>
 
-<td width="60%">
+<td width="50%">
 
-### About Me
+### 🌱 Learning
 
-🎓 B.E. Computer Engineering
-
-🏫 JSPM's BSIOTR, Pune
-
-💻 Full Stack Developer
-
-🤖 AI Enthusiast
-
-📡 IoT Explorer
-
-🌱 Always Learning
-
-🚀 Open Source Lover
+- Cloud Computing
+- Docker
+- REST APIs
+- Authentication (JWT)
+- System Design
+- DevOps Basics
 
 </td>
 
-<td>
+<td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bhavneshgaddi&show_icons=true&theme=tokyonight&hide_border=true"/>
+### 🎯 Interests
+
+- Full Stack Development
+- Artificial Intelligence
+- Internet of Things
+- Open Source
+- Software Engineering
+- Problem Solving
 
 </td>
 
@@ -97,235 +209,56 @@ Hi 👋 I'm Bhavnesh Gaddi
 
 ---
 
-# ⚡ Current Focus
-
-```yaml
-Learning:
-  - Advanced React
-  - Node.js
-  - Express
-  - MongoDB
-  - Cloud Computing
-  - Docker
-
-Working On:
-  - Attendance Management System
-  - AI Agriculture Predictor
-  - Event Management System
-  - Offline Games PWA
-
-Goals:
-  - Become Software Engineer
-  - Open Source Contributor
-  - Build Amazing Products
-```
-
----
+# ⚡ Core Skills
 
 <div align="center">
 
-## 🌌 "Turning Coffee ☕ into Code 💻"
+| Development | Database | Tools |
+|:------------|:---------|:------|
+| Responsive UI | MySQL | Git |
+| REST APIs | MongoDB | GitHub |
+| React.js | Database Design | VS Code |
+| Node.js | CRUD Operations | Postman |
+| Express.js | SQL Queries | npm |
 
 </div>
 
 ---
 
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-
-</p>
-
-<!-- ================= END OF PART 1 ================= -->
-<!-- ========================================================= -->
-<!--            PREMIUM GITHUB PROFILE - PART 2                -->
-<!--        Continue directly after Part 1                     -->
-<!-- ========================================================= -->
-
-# 🚀 About Me
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-```yaml
-Name: Bhavnesh Gaddi
-
-Role: Computer Engineering Student
-
-College:
-  JSPM's Bhivarabai Sawant Institute
-  of Technology & Research
-
-Location:
-  Pune, Maharashtra, India
-
-Degree:
-  Bachelor of Engineering
-
-Graduation:
-  2028
-
-Passion:
-  - Full Stack Development
-  - Artificial Intelligence
-  - Internet of Things
-  - Cloud Computing
-  - Open Source
-
-Current Status:
-  Learning every day and building
-  projects that solve real-world
-  problems.
-```
-
-<br>
-
----
-
-# 💻 Tech Universe
-
-<div align="center">
-
-## 👨‍💻 Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp&perline=5"/>
-
-<br><br>
-
-## 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,vite&perline=6"/>
-
-<br><br>
-
-## ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express&perline=4"/>
-
-<br><br>
-
-## 🗄 Database
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&perline=4"/>
-
-<br><br>
-
-## 🛠 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma&perline=6"/>
-
-</div>
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-| 🚀 Technology | 📈 Progress |
-|:-------------:|:-----------:|
-| React | ██████████ 100% |
-| JavaScript | ██████████ 100% |
-| Node.js | █████████░ 90% |
-| Express.js | █████████░ 90% |
-| MongoDB | ████████░░ 80% |
-| Docker | ██████░░░░ 60% |
-| Cloud Computing | ██████░░░░ 60% |
-| DevOps | ████░░░░░░ 40% |
-
-</div>
-
----
-
-# 🎯 My Interests
-
-<div align="center">
-
-| 💡 | 🚀 |
-|:---|:---|
-| 🌐 Full Stack Development | 🤖 Artificial Intelligence |
-| ☁️ Cloud Computing | 📡 Internet of Things |
-| 💻 Software Engineering | 📱 Web Applications |
-| 📊 Data Structures | ⚡ Open Source |
-
-</div>
-
----
-
-# 🧠 Developer Mindset
-
-> 💬 **"Great software isn't just written—it is designed, improved, tested, and continuously learned from."**
-
----
-
-# 🏆 My Development Journey
+# 📚 What I'm Working On
 
 ```text
-Programming      ██████████████████ 100%
+🚀 Event Management System
 
-Frontend         ███████████████░░ 85%
+🌱 AI Green Agriculture Predictor
 
-Backend          █████████████░░░░ 80%
+🎓 Student Attendance Management System
 
-Databases        ████████████░░░░░ 75%
+🎮 Carrom King
 
-AI & ML          █████████░░░░░░░░ 55%
-
-Cloud            ███████░░░░░░░░░░ 45%
-
-DevOps           █████░░░░░░░░░░░░ 35%
+📱 Full Stack Web Applications
 ```
-
----
-
-# 🌟 What I Love Building
-
-✅ Full Stack Web Applications
-
-✅ AI-Based Projects
-
-✅ Student Utility Systems
-
-✅ Automation Tools
-
-✅ REST APIs
-
-✅ Responsive Websites
-
-✅ Open Source Projects
 
 ---
 
 <div align="center">
 
-### ⚡ *"Keep Learning • Keep Building • Keep Growing"* ⚡
+### 💡 I believe great software is built through consistency, curiosity, and continuous learning.
 
 </div>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-</p>
+---
 
 <!-- ================= END OF PART 2 ================= -->
-<!-- ========================================================= -->
-<!--            PREMIUM GITHUB PROFILE - PART 3                -->
-<!--        Continue directly after Part 2                     -->
-<!-- ========================================================= -->
+<!-- ================= GITHUB ANALYTICS ================= -->
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bhavneshgaddi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhavneshgaddi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Bhavneshgaddi&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavneshgaddi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavneshgaddi&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -335,7 +268,7 @@ DevOps           █████░░░░░░░░░░░░ 35%
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Bhavneshgaddi&theme=algolia&margin-w=15&margin-h=15&column=4&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Bhavneshgaddi&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=4"/>
 
 </div>
 
@@ -345,97 +278,52 @@ DevOps           █████░░░░░░░░░░░░ 35%
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavneshgaddi&theme=tokyo-night&radius=16&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavneshgaddi&theme=tokyo-night&hide_border=true&radius=12"/>
 
 </div>
 
 ---
 
-# 🔥 Coding Activity
+# 📌 GitHub Overview
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhavneshgaddi&theme=tokyonight"/>
+| 📂 Repositories | ⭐ Stars | 🍴 Forks | 👥 Followers |
+|:---------------:|:-------:|:--------:|:------------:|
+| Growing | Growing | Growing | Growing |
 
 </div>
 
 ---
 
-# 📊 GitHub Summary
+# 🎯 Developer Philosophy
 
 <div align="center">
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhavneshgaddi&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhavneshgaddi&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bhavneshgaddi&theme=tokyonight&utcOffset=5.5"/>
+> **"Every project is an opportunity to learn, improve, and create something meaningful."**
 
 </div>
 
 ---
 
-# 📌 GitHub Insights
+# 📅 Current Focus
 
-<div align="center">
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bhavneshgaddi&theme=tokyonight"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhavneshgaddi&theme=tokyonight"/>
-
-</div>
-
----
-
-# ⚡ Activity Overview
-
-```text
-🚀 Repositories      ███████████████
-
-💻 Commits           ███████████████
-
-🌟 Stars             ███████
-
-🍴 Forks             █████
-
-🐛 Issues            ████
-
-🤝 Pull Requests     ███████
-
-🔥 Contributions     ███████████
-```
-
----
-
-# 🌍 Open Source Journey
-
-```text
-2024  ███░░░░░░░ Started Programming
-
-2025  ███████░░░ Built Full Stack Projects
-
-2026  ██████████ Open Source + AI + IoT
-
-2027  ███████████ Internship & Development
-
-2028  ███████████ Software Engineer 🚀
-```
+- 🚀 Building scalable Full Stack applications
+- 📚 Learning Cloud Computing & Docker
+- 🤝 Contributing to Open Source
+- 🧠 Strengthening DSA & System Design
+- 💼 Preparing for Software Engineering Internships
 
 ---
 
 <div align="center">
 
-### ⭐ Every Commit Counts ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
 </div>
 
 <!-- ================= END OF PART 3 ================= -->
-<!-- ========================================================= -->
-<!--            PREMIUM GITHUB PROFILE - PART 4                -->
-<!--          Featured Projects & Certifications               -->
-<!-- ========================================================= -->
+<!-- ================= FEATURED PROJECTS ================= -->
 
 # 🚀 Featured Projects
 
@@ -449,21 +337,30 @@ DevOps           █████░░░░░░░░░░░░ 35%
 
 ## 🎓 Attendance Management System
 
-A modern attendance tracking system designed for colleges with an intuitive interface.
+A modern full-stack application designed to simplify student attendance management with role-based access, dashboards, and reporting.
 
-### ⚙ Tech Stack
+### ⚙️ Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
 
-⭐ Features
+### ✨ Highlights
 
-- Student Login
-- Faculty Dashboard
-- Attendance Reports
-- Analytics
+✔ Student & Faculty Login
+
+✔ Attendance Dashboard
+
+✔ Report Generation
+
+✔ Responsive Design
+
+**🔗 Repository:**  
+https://github.com/Bhavneshgaddi/AttendanceTracker
 
 </td>
 
@@ -471,21 +368,30 @@ A modern attendance tracking system designed for colleges with an intuitive inte
 
 ## 🎉 Event Management System
 
-A complete web application to organize events and manage registrations.
+A complete event management platform for organizing events, registrations, and participant tracking.
 
-### ⚙ Tech Stack
+### ⚙️ Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
 
-⭐ Features
+### ✨ Highlights
 
-- Event Creation
-- Participant Registration
-- Admin Dashboard
-- Reports
+✔ Event Scheduling
+
+✔ Participant Registration
+
+✔ Admin Dashboard
+
+✔ Reports & Analytics
+
+**🔗 Repository:**  
+https://github.com/Bhavneshgaddi/event-management-system
 
 </td>
 
@@ -497,40 +403,57 @@ A complete web application to organize events and manage registrations.
 
 ## 🌱 AI Agriculture Predictor
 
-Machine Learning project for sustainable agriculture prediction.
+A machine learning project that predicts sustainability and crop yield using agricultural data.
 
-### ⚙ Tech Stack
+### ⚙️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=flat-square)
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
-![Scikit](https://img.shields.io/badge/Machine%20Learning-orange?style=flat-square)
 
-⭐ Features
+### ✨ Highlights
 
-- AI Prediction
-- Smart Recommendations
-- Analytics
-- Dashboard
+✔ Smart Prediction
+
+✔ Sustainability Analysis
+
+✔ AI Models
+
+✔ Data Visualization
+
+**🔗 Repository:**  
+https://github.com/Bhavneshgaddi/Agri
 
 </td>
 
 <td>
 
-## 🎮 Offline Games PWA
+## 🎮 Carrom King
 
-Progressive Web App featuring offline browser games.
+A browser-based multiplayer-inspired Carrom game focused on responsive gameplay and clean UI.
 
-### ⚙ Tech Stack
+### ⚙️ Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
 
-⭐ Features
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
 
-- Offline Support
-- Fast Loading
-- Responsive UI
-- Mobile Friendly
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
+
+### ✨ Highlights
+
+✔ Responsive Gameplay
+
+✔ Interactive UI
+
+✔ Smooth Controls
+
+✔ Browser Based
+
+**🔗 Repository:**  
+https://github.com/Bhavneshgaddi/carrom-king-game
 
 </td>
 
@@ -542,86 +465,49 @@ Progressive Web App featuring offline browser games.
 
 ---
 
-# 💼 Other Projects
+# 📚 Education
 
-| 🚀 Project | 💻 Technology |
-|------------|--------------|
-| 🎯 Carrom King | TypeScript |
-| 🚀 Space Shooter | TypeScript |
-| 🌐 Iris Browser | JavaScript |
-| 🧠 AI Projects | Python |
-| 📚 Student Utilities | React |
+🎓 **Bachelor of Engineering (Computer Engineering)**  
+**JSPM's Bhivarabai Sawant Institute of Technology & Research, Pune**  
+📅 Expected Graduation: **2028**
 
 ---
 
-# 🏅 Certifications
+# 📜 Certifications
 
-<div align="center">
-
-| Certificate | Platform |
-|-------------|----------|
-| ☁️ Cloud Computing | Infosys Springboard |
-| ⚛️ React | Infosys Springboard |
-| 🍃 MongoDB Atlas | MongoDB |
-
-</div>
+- ☁️ Cloud Computing — Infosys Springboard
+- ⚛️ React — Infosys Springboard
+- 🍃 MongoDB Atlas — MongoDB
 
 ---
 
-# 🏆 Achievements
+# 🏅 Highlights
 
-⭐ Built multiple Full Stack Projects
-
-⭐ AI-based Agriculture Predictor
-
-⭐ Learning Modern Backend Development
-
-⭐ Exploring Cloud Computing
-
-⭐ Passionate about Open Source
-
----
-
-# 🎯 Career Objective
-
-```text
-Goal:
-Become a skilled Software Engineer by continuously
-learning, building impactful applications, contributing
-to Open Source, and solving real-world problems using
-modern technologies.
-```
-
----
-
-# 💡 Development Philosophy
-
-> "Every bug teaches something.
->
-> Every project improves skills.
->
-> Every commit is progress."
+- 💻 Built multiple full-stack applications
+- 🤖 Worked on AI-based solutions
+- 🌐 Experienced with React, Node.js, Express.js & MySQL
+- 📚 Continuously learning modern technologies
+- 🚀 Passionate about solving real-world problems
 
 ---
 
 <div align="center">
 
-### 🚀 Building Today for Tomorrow's Technology
+### ⭐ *"Projects demonstrate ability better than words."*
 
 </div>
+
+---
 
 <!-- ================= END OF PART 4 ================= -->
-<!-- ========================================================= -->
-<!--            PREMIUM GITHUB PROFILE - PART 5                -->
-<!--               Social • Contact • Footer                  -->
-<!-- ========================================================= -->
+<!-- ================= CONTACT ================= -->
 
-# 🌐 Let's Connect
+# 🤝 Let's Connect
 
-<div align="center">
+<p align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
@@ -632,129 +518,83 @@ modern technologies.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-00C4CC?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-# 💼 Open to Opportunities
+# 💼 Open To
 
 <div align="center">
 
-| 💡 Looking For | ✅ Status |
-|:--------------|:---------:|
-| Software Engineering Internship | 🟢 Open |
-| Full Stack Development | 🟢 Open |
-| Open Source Collaboration | 🟢 Open |
-| Hackathons | 🟢 Open |
-| Freelance Projects | 🟡 Selectively |
+| Opportunity | Status |
+|:------------|:------:|
+| 💻 Software Engineering Internship | 🟢 Open |
+| 🚀 Full Stack Development | 🟢 Open |
+| 🌍 Open Source Collaboration | 🟢 Open |
+| 🧠 AI & IoT Projects | 🟢 Open |
+| 🤝 Hackathons | 🟢 Open |
 
 </div>
 
 ---
 
-# 📊 Developer Profile
-
-<div align="center">
-
-| 👨‍💻 | |
-|------|------|
-| 🎓 Degree | B.E. Computer Engineering |
-| 🏫 College | JSPM's BSIOTR, Pune |
-| 💻 Specialization | Full Stack Development |
-| 🤖 Interests | AI • IoT • Cloud |
-| 🌍 Country | India 🇮🇳 |
-| ❤️ Motto | Learn • Build • Share |
-
-</div>
-
----
-
-# 🎯 2026 Roadmap
+# 🌟 Beyond Coding
 
 ```text
-██████████████████████████████████████
+📚 Learning something new every day
 
-✅ Master React
+🤝 Collaborating with developers
 
-✅ Advanced Node.js
+🚀 Building practical applications
 
-✅ Express.js
+💡 Solving real-world problems
 
-✅ MongoDB
-
-⬜ Docker
-
-⬜ AWS
-
-⬜ Kubernetes
-
-⬜ DevOps
-
-⬜ System Design
-
-⬜ Competitive Programming
-
-██████████████████████████████████████
+🌱 Continuously improving as an engineer
 ```
 
 ---
 
-# 💭 Favorite Quote
+# 💬 A Thought I Believe In
 
 <div align="center">
 
-> **"Code is like humor. When you have to explain it, it's bad."**
-
-— Cory House
+> **"Technology is most valuable when it solves real problems for real people."**
 
 </div>
 
 ---
 
-# ⚡ Fun Facts
+# 📈 Current Journey
 
-- ☕ Coffee + Music = Coding
-- 💻 Love building real-world applications
-- 🚀 Always exploring new technologies
-- 📚 Lifelong learner
-- 🤝 Open to collaboration
-- 🌟 Believe in consistency over perfection
+```text
+2024  Started my Engineering Journey
 
----
+2025  Built Full Stack Applications
 
-# ❤️ Support My Work
+2026  Exploring AI, IoT & Cloud
 
-<div align="center">
+2027  Software Development Internship
 
-⭐ Star my repositories if you find them useful.
-
-🍴 Fork interesting projects.
-
-🤝 Let's build something amazing together.
-
-</div>
+2028  Graduate as Computer Engineer
+```
 
 ---
 
-# 👀 Visitor Counter
+# ⭐ Thanks for Visiting!
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Bhavneshgaddi&label=Profile+Visitors&color=blueviolet&style=for-the-badge"/>
+If you like my work,
 
-</div>
+⭐ **Star a repository**
 
----
+🍴 **Fork a project**
 
-# 🎉 Thank You for Visiting!
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub!;Happy+Coding!;Let's+Build+Something+Amazing!;See+You+Again!"/>
+🤝 **Let's collaborate**
 
 </div>
 
@@ -762,10 +602,6 @@ modern technologies.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=gradient&customColorList=6,12,20,24,30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=6,12,20"/>
 
 </div>
-
-<!-- ========================================================= -->
-<!--                    END OF PROFILE                         -->
-<!-- ========================================================= -->
